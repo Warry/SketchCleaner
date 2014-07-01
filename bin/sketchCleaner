@@ -1,0 +1,5 @@
+#!/usr/bin/env node
+
+var sketchCleaner = require("../sketchCleaner");
+
+sketchCleaner(process.cwd());

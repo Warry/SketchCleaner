@@ -1,0 +1,16 @@
+{
+  "name": "sketchCleaner",
+  "version": "0.0.1",
+  "description": "Clean Sketchapp's svg files ",
+  "main": "./lib/sketchCleaner.js",
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "https://github.com/Warry/SketchCleaner/blob/master/LICENSE"
+    }
+  ],
+  "dependencies": {
+    "sax": "0.4.x",
+    "xml-writer": "1.4.x"
+  }
+}
